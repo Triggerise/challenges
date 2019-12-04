@@ -26,7 +26,7 @@ co.scan("HOODIE")
 val price = co.total
 ```
 
-Using preferably Scala or Java implement a checkout process that fulfills the requirements.
+Using Scala implement a checkout process that fulfills the requirements.
 
 If you want to implement in something else, please let us know beforehand.
 
