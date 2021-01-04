@@ -4,7 +4,7 @@
 
 Provide us the `SQL` query that would answer the following "questions" about the dataset:
 
-1. Top 10 users with posts having a body larger than 400 characters.
+1. Top 10 users with posts having a title larger than 400 characters.
 
 2. Top 10 users with higher average creation time between their posts.
 
@@ -22,10 +22,10 @@ The challenge here is to segment the users, *by month*, based on the their activ
 
 The segmentation categories are:
   * Expert User:
-    1. having made more than 5 posts having over 100 characters each
+    1. having made more than 5 posts having over 100 characters on the title
     2. having made at least 5 comments
   * Standard User:
-    1. having made more than 2 posts having over 50 characters each
+    1. having made more than 2 posts having over 50 characters on the title
     2. having made at least 2 comments
   * Novice User:
     1. having made at least one post or comment
