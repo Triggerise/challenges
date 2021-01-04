@@ -2,4 +2,5 @@ Welcome to Triggerise Challenges!
 
 - [BE Challenge](https://github.com/Triggerise/challenges/wiki/Triggerise-BE-Challenge)
 - [FE Challenge](https://github.com/Triggerise/challenges/wiki/Triggerise-FE-Challenge)
+- [BI Challenge](https://github.com/Triggerise/challenges/wiki/Triggerise-BI-Challenge)
 - [Android Challenge](https://github.com/Triggerise/challenges/wiki/Triggerise-Android-Challenge)
