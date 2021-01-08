@@ -66,7 +66,7 @@ Ensure dataset {{ table }} table is present:
   cmd.run:
     - name: |
         cd /dataset/{{ database_name }}.stackexchange.com
-        echo 'y' | python3 load_into_pg.py --foreign-keys --with-post-body -d {{ database_name }} {{ table }}
+        echo 'y' | python3 load_into_pg.py -d {{ database_name }} -t {{ table }} -f {{ table }}.xml
     - cwd: /usr/local/src
     - shell: /bin/bash
     - timeout: 300
